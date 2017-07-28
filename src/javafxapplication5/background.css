@@ -1,0 +1,25 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jul 25, 2017, 10:39:58 AM
+    Author     : willy satrya
+*/
+
+#pane{
+    -fx-background-image: url("../image/background.jpg");
+    -fx-background-repeat: round;   
+    -fx-background-size: 200 200;
+    -fx-background-position: center center;
+    -fx-effect: dropshadow(three-pass-box, black, 30, 0.5, 0, 0); 
+}
+
+.root{
+    -fx-background-image: url("../image/1080Ti_1.jpg");
+    -fx-background-repeat: round;   
+    -fx-background-size: 400 400;
+    -fx-background-position: center center;
+    -fx-effect: dropshadow(three-pass-box, black, 30, 0.5, 0, 0); 
+}
